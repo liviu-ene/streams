@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "hey there!",
+      "description": "playing VALORANT",
+      "userId": "110407268521068066249",
+      "id": 1
+    },
+    {
+      "title": "i'm back home",
+      "description": "playing Fortnite",
+      "userId": "110407268521068066249",
+      "id": 2
+    },
+    {
+      "title": "tournament tommorow at 8PM",
+      "description": "playing Apex Legends",
+      "userId": "110407268521068066249",
+      "id": 3
+    },
+    {
+      "title": "LCS 2022 Week 3",
+      "description": "playing League of Legends",
+      "userId": "110407268521068066249",
+      "id": 4
+    }
+  ]
+}
